@@ -1,6 +1,6 @@
 # Hi there, I'm Nuri Shkreli 👋
 
-**Backend & Web Developer | B.Sc. in Computer Science from UNYT (University of New York Tirana)**
+**Backend & Software Developer | B.Sc. in Computer Science from UNYT (University of New York Tirana)**
 
 Based in **Tirana, Albania**, I specialize in designing and engineering robust web applications, reliable backend systems, and modern digital products.
 
@@ -22,7 +22,7 @@ Based in **Tirana, Albania**, I specialize in designing and engineering robust w
 
 ### 🛠️ Tech Stack & Skills
 
-- **Languages:** JavaScript (ES6+), TypeScript, Python, Dart, SQL, HTML5, CSS3
+- **Languages:** JavaScript (ES6+), TypeScript, Python, Dart, SQL, HTML5, CSS3, etc.
 - **Frontend & Frameworks:** React, Next.js, Vite, Tailwind CSS, Flutter
 - **Backend & Realtime:** Node.js, Express, REST APIs, WebSockets, Socket.IO
 - **Databases & Tools:** PostgreSQL, Supabase, Redis, Git, GitHub Actions, Docker
