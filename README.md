@@ -6,7 +6,6 @@ Based in **Tirana, Albania**, I specialize in designing and engineering robust w
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-d5f36a?style=for-the-badge&logo=google-chrome&logoColor=black)](https://shkrelinuri.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/355676489460)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/shkrelinuri/)
 
 ---
