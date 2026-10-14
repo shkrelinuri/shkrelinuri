@@ -48,3 +48,11 @@ Based in **Tirana, Albania**, I specialize in designing and engineering robust w
   <img src="https://github-readme-stats.vercel.app/api?username=shkrelinuri&show_icons=true&theme=tokyonight&hide_border=true" alt="Nuri Shkreli's GitHub stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shkrelinuri&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
 </p>
+
+
+### Hobbies and interest
+Chess enthusiast. 
+- Chess.com username: nurishkrelii
+- chess.com rapid rating: 2000
+- chess.com bullet: 1800 - 2000, blitz: 1800-1950
+  
