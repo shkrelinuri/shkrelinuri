@@ -7,6 +7,7 @@ Based in **Tirana, Albania**, I specialize in designing and engineering robust w
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-d5f36a?style=for-the-badge&logo=google-chrome&logoColor=black)](https://shkrelinuri.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/shkrelinuri/)
+[![Chess.com](https://img.shields.io/badge/Chess.com-Play_Me-81B64C?style=for-the-badge&logo=chessdotcom&logoColor=white)](https://www.chess.com/member/nurishkrelii)
 
 ---
 
