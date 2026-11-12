@@ -1,33 +1,25 @@
-# Hi there, I'm Nuri Shkreli 👋
+# Hi, I'm Nuri Shkreli
 
-**Backend & Software Developer | B.Sc. in Computer Science from UNYT (University of New York Tirana)**
+I'm a backend and web developer in Tirana, Albania, and I study Computer Science at the University of New York Tirana (UNYT). I build web apps, APIs, and digital tools for businesses, and I enjoy working on projects that make everyday tasks a little easier.
 
-Based in **Tirana, Albania**, I specialize in designing and engineering robust web applications, reliable backend systems, and modern digital products.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-d5f36a?style=for-the-badge&logo=google-chrome&logoColor=black)](https://shkrelinuri.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/shkrelinuri/)
-[![Chess.com](https://img.shields.io/badge/Chess.com-Play_Me-81B64C?style=for-the-badge&logo=chessdotcom&logoColor=white)](https://www.chess.com/member/nurishkrelii)
+[Portfolio](https://shkrelinuri.github.io/portfolio/) · [Instagram](https://www.instagram.com/shkrelinuri/) · [Email](mailto:nurishkreli5@gmail.com) · [Chess.com](https://www.chess.com/member/nurishkrelii)
 
 ---
 
-### 👨‍💻 About Me
+### A little about me
 
-- 🎓 **Education:** Bachelor of Science in **Computer Science** at **University of New York Tirana (UNYT)**.
-- 💻 **Focus:** Backend architectures, full-stack web applications, RESTful APIs, and database design.
-- 🛠️ **Systems & IT:** Experienced with computer systems maintenance, cloud/network setups, and IT infrastructure for businesses.
-- 🚀 **Currently Building:** High-performance web applications, multiplayer game architectures, and practical SaaS tools.
-- 📬 **Contact:** [nurishkreli5@gmail.com](mailto:nurishkreli5@gmail.com)
+- I work across backend services and full-stack applications, including APIs and database-backed features.
+- I also help businesses maintain computers, networks, and other day-to-day IT systems.
+- Recent projects include chess apps, small SaaS tools, and business websites.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### Tools I use
 
-- **Languages:** JavaScript (ES6+), TypeScript, Python, Dart, SQL, HTML5, CSS3, etc.
-- **Frontend & Frameworks:** React, Next.js, Vite, Tailwind CSS, Flutter
-- **Backend & Realtime:** Node.js, Express, REST APIs, WebSockets, Socket.IO
-- **Databases & Tools:** PostgreSQL, Supabase, Redis, Git, GitHub Actions, Docker
-- **Engines & Analysis:** Stockfish chess engine integration, Capacitor mobile wrappers
+- **Languages:** JavaScript, TypeScript, Python, Dart, SQL, HTML, and CSS
+- **Web:** React, Next.js, Vite, Tailwind CSS, Node.js, and Express
+- **Data and infrastructure:** PostgreSQL, Supabase, Redis, Docker, and GitHub Actions
+- **Other:** Flutter, Socket.IO, Capacitor, and Stockfish integration
 
 ---
 
@@ -50,9 +42,7 @@ Based in **Tirana, Albania**, I specialize in designing and engineering robust w
 </p>
 
 
-### Hobbies and interest
-Chess enthusiast. 
-- Chess.com username: nurishkrelii
-- chess.com rapid rating: 2000
-- chess.com bullet: 1800 - 2000, blitz: 1800-1950
+### Outside of work
+
+I enjoy playing chess. You can find me on Chess.com as [nurishkrelii](https://www.chess.com/member/nurishkrelii).
   
